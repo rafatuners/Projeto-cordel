@@ -102,6 +102,19 @@ header a:hover{
     padding-bottom: 10px;
     
 }
+
+.paragrafo4{
+    font-family: var(--fonte03);
+    max-width: 2000px;
+    background-color: white;
+    text-align: justify;
+    font-size: 2em;
+    line-height: 2em;
+    padding-top: 64px;        
+    padding-left: 40px;
+    padding-bottom: 80px;
+    margin-bottom: -74px; 
+}
 footer{
     background-color: black; 
     font-family: var(--fonte01);
@@ -111,6 +124,7 @@ footer{
 footer p{
     color: white;
     text-align: center;
+    padding: 10px;
 }
 
 footer a{
